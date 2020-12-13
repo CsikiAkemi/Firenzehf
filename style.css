@@ -1,0 +1,31 @@
+body {
+    background: url('kepek/hatterem3.jpg');
+    margin: 0;
+    font-family: sans-serif;
+	
+}
+#tartalom{
+	max-width:720px;
+	width:90%;
+	margin:0 auto;
+	background: #F8F8FF;
+	padding: 10px;
+}
+img{
+	border:2px solid gray;
+	padding: 2px;
+	margin: 6px;
+}
+.balra{
+	float:left;
+}
+.jobbra{
+	float:right;
+}
+p{
+	overflow:auto;
+	text-align: justify;
+}
+div{
+	border-bottom: 1px solid;
+}
